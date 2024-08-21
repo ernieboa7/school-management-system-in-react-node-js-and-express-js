@@ -8,8 +8,8 @@
 
 ## Technology Stack :
 
-1.  ExpressJS for server library.
-2.  Node.js for Environment.
+1.  ExpressJS use for server library.
+2.  Node.js use for Environment.
 3.  React.js for developing User Interface
 4.  MySQL for database design
 5.  mysql2 as a promise-based Node.js driver (ORM) for MySQL.
